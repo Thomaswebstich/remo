@@ -1,0 +1,1 @@
+// This file can be safely deleted as it's now moved to src/remotion/Root.tsx
